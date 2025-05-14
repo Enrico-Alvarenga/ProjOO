@@ -13,6 +13,3 @@ A disciplina tem como objetivo o estudo e aplicação dos conceitos de orientaç
 - Interfaces
 - Design Patterns
 - Princípios SOLID
-
-## 📁 Estrutura do Repositório
-
