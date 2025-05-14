@@ -6,6 +6,6 @@ public class TouristInfoDecorator extends RouteDecorator {
     @Override
     public void display() {
         super.display();
-        System.out.println("🔍 Ponto turístico incluso.");
+        System.out.println(" Ponto turístico incluso.");
     }
 }
